@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pibby_idle.png">
+<SubTexture name="pibby_idle instancia 10000" x="0" y="0" width="596" height="410" frameX="0" frameY="-17" frameWidth="623" frameHeight="428" />
+</TextureAtlas>

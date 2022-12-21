@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gardenanimated2.png">
+<SubTexture name="torso zombot instancia 10000" x="0" y="0" width="855" height="365" frameX="-20" frameY="-31" frameWidth="875" frameHeight="396" />
+</TextureAtlas>

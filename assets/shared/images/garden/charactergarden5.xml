@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="charactergarden5.png">
+<SubTexture name="torre instancia 10000" x="0" y="0" width="203" height="418" frameX="0" frameY="0" frameWidth="204" frameHeight="418" />
+</TextureAtlas>
