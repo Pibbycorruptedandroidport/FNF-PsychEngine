@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pvzbar.png">
+<SubTexture name="aihfhfa instancia 10000" x="695" y="0" width="695" height="116" frameX="0" frameY="0" frameWidth="695" frameHeight="184" />
+<SubTexture name="aihfhfa instancia 10001" x="695" y="116" width="695" height="116" frameX="0" frameY="0" frameWidth="695" frameHeight="184" />
+<SubTexture name="aihfhfa instancia 10002" x="695" y="232" width="695" height="115" frameX="0" frameY="0" frameWidth="695" frameHeight="184" />
+<SubTexture name="aihfhfa instancia 10003" x="0" y="348" width="695" height="135" frameX="0" frameY="0" frameWidth="695" frameHeight="184" />
+<SubTexture name="aihfhfa instancia 10004" x="0" y="483" width="695" height="135" frameX="0" frameY="0" frameWidth="695" frameHeight="184" />
+<SubTexture name="aihfhfa instancia 10005" x="0" y="184" width="695" height="164" frameX="0" frameY="0" frameWidth="695" frameHeight="184" />
+<SubTexture name="aihfhfa instancia 10006" x="0" y="184" width="695" height="164" frameX="0" frameY="0" frameWidth="695" frameHeight="184" />
+<SubTexture name="aihfhfa instancia 10007" x="0" y="0" width="695" height="184" frameX="0" frameY="0" frameWidth="695" frameHeight="184" />
+<SubTexture name="aihfhfa instancia 10008" x="0" y="0" width="695" height="184" frameX="0" frameY="0" frameWidth="695" frameHeight="184" />
+<SubTexture name="aihfhfa instancia 10009" x="695" y="347" width="695" height="114" frameX="0" frameY="0" frameWidth="695" frameHeight="184" />
+<SubTexture name="aihfhfa instancia 10010" x="695" y="347" width="695" height="114" frameX="0" frameY="0" frameWidth="695" frameHeight="184" />
+<SubTexture name="aihfhfa instancia 10011" x="695" y="461" width="695" height="114" frameX="0" frameY="0" frameWidth="695" frameHeight="184" />
+</TextureAtlas>
