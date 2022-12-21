@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY"
+		},
+		{
+			"offsets": [
+				294,
+				267
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "boyfriend attack"
+		},
+		{
+			"offsets": [
+				245,
+				270
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "peashooter_idle instancia "
+		},
+		{
+			"loop": true,
+			"offsets": [
+				235,
+				184
+			],
+			"anim": "singLEFT",
+			"fps": 32,
+			"name": "peashooter_left instancia ",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				231,
+				337
+			],
+			"anim": "singUP",
+			"fps": 32,
+			"name": "peashooter_up instancia ",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				230,
+				310
+			],
+			"anim": "singRIGHT",
+			"fps": 32,
+			"name": "peashooter_down instancia ",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				230,
+				119
+			],
+			"anim": "singDOWN",
+			"fps": 32,
+			"name": "peashooter_right instancia ",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Legends/characters/peashooter_pibby",
+	"position": [
+		340,
+		420
+	],
+	"healthicon": "pea_icon_pibby",
+	"flip_x": false,
+	"healthbar_colors": [
+		181,
+		255,
+		55
+	],
+	"camera_position": [
+		-1290,
+		-510
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

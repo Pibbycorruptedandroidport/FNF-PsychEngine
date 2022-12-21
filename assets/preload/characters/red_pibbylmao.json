@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				180,
+				-60
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "red_pibby_idle instancia "
+		},
+		{
+			"offsets": [
+				420,
+				-20
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "red_pibby_left instancia "
+		},
+		{
+			"offsets": [
+				390,
+				-50
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "red_pibby_down instancia "
+		},
+		{
+			"offsets": [
+				150,
+				470
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "singUP",
+			"indices": [],
+			"name": "red_pibby_up instancia "
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				80
+			],
+			"anim": "singRIGHT",
+			"fps": 42,
+			"name": "red_pibby_right instancia ",
+			"indices": []
+		},
+		{
+			"offsets": [
+				389,
+				-49
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "red_pibby_down instancia "
+		},
+		{
+			"loop": false,
+			"offsets": [
+				389,
+				-49
+			],
+			"anim": "singLEFT-alt",
+			"fps": 32,
+			"name": "red_pibby_down instancia 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				389,
+				-49
+			],
+			"anim": "singUP-alt",
+			"fps": 32,
+			"name": "red_pibby_down instancia 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				389,
+				-49
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 42,
+			"name": "red_pibby_down instancia 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Legends/characters/red_pibby",
+	"position": [
+		380,
+		160
+	],
+	"healthicon": "botanybirdsicon",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-1280,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}
