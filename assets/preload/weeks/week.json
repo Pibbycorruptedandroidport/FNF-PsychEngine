@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["birds-and-botany-(gabriel-l.remix)", "botanybirdsicon", [0, 0, 0]]
+
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "unknown",
+
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "Tutorial",
+	"difficulties": "hard",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
