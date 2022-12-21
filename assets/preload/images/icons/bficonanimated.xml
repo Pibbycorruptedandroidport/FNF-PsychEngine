@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bficonanimated.png">
+<SubTexture name="bffp_ww instancia 10000" x="170" y="0" width="167" height="136" frameX="-12" frameY="-1" frameWidth="192" frameHeight="144" />
+<SubTexture name="bffp_ww instancia 10001" x="0" y="138" width="164" height="136" frameX="-1" frameY="-1" frameWidth="192" frameHeight="144" />
+<SubTexture name="bffp_ww instancia 10002" x="0" y="0" width="170" height="138" frameX="-15" frameY="-1" frameWidth="192" frameHeight="144" />
+<SubTexture name="bfp_l instancia 10000" x="337" y="0" width="174" height="133" frameX="-1" frameY="0" frameWidth="179" frameHeight="137" />
+<SubTexture name="bfp_n instancia 10000" x="0" y="274" width="175" height="120" frameX="-1" frameY="-1" frameWidth="180" frameHeight="125" />
+</TextureAtlas>
